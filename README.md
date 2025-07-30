@@ -46,7 +46,7 @@ This application allows you to track your income and expenses. You can add new t
 3.  **Install the required dependencies:**
 
     ```bash
-    pip install streamlit pandas matplotlib
+    pip install -r requirements.txt
     ```
 
 4.  **Run the application:**
