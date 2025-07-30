@@ -1,6 +1,18 @@
 date,amount,category,description
-22.07.2025,390.0,Expense,some snakes
+15.08.2024,50000.0,Income,Side hustle
+15.08.2024,5000.0,Income,Side hustle
+15.12.2024,400.0,Expense,Gift Shopping
+20.12.2024,100.0,Expense,Parking Fees
+25.12.2024,2500.0,Income,Year-End Bonus
+01.01.2025,1000.0,Income,New Year Bonus
+10.01.2025,200.0,Expense,Books  
+15.01.2025,600.0,Expense,Clothing
+20.01.2025,1500.0,Income,Consulting Fees    
+25.01.2025,300.0,Expense,Internet Bill
+01.02.2025,400.0,Expense,Phone Bill
+05.02.2025,700.0,Income,Freelance Project
 25.05.2025,3000.0,Income,Salary
+22.07.2025,390.0,Expense,some snakes
 15.08.2025,500.0,Expense,Groceries
 05.09.2025,1200.0,Income,Freelance Work
 20.10.2025,75.0,Expense,Movie Tickets
@@ -11,15 +23,3 @@ date,amount,category,description
 30.11.2025,300.0,Expense,Utility Bills
 05.12.2025,50.0,Expense,Coffee Shop
 10.12.2025,800.0,Income,Stock Dividends
-15.12.2024,400.0,Expense,Gift Shopping
-20.12.2024,100.0,Expense,Parking Fees
-25.12.2024,2500.0,Income,Year-End Bonus
-15.08.2024,50000.0,Income,Side hustle
-15.08.2024,5000.0,Income,Side hustle
-01.01.2025,1000.0,Income,New Year Bonus
-10.01.2025,200.0,Expense,Books  
-15.01.2025,600.0,Expense,Clothing
-20.01.2025,1500.0,Income,Consulting Fees    
-25.01.2025,300.0,Expense,Internet Bill
-01.02.2025,400.0,Expense,Phone Bill
-05.02.2025,700.0,Income,Freelance Project
